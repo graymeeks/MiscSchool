@@ -1,5 +1,5 @@
 # MiscSchool
-Miscellaneous assignments completed for various classes. This folder includes projects where some code was provided by the professor; all problems I solved from scratch will be located elsewhere.
+Miscellaneous assignments completed for various classes. Projects where the professor provided substantial amounts of code are indicated by * , everything else was done from scratch.
 
 LogicPuzzle.pl: Prologue script that solves a hard-coded logic puzzle
 
