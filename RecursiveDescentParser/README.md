@@ -1,1 +1,1 @@
-This assignment entailed writing a recursive descent parser for the purpose of constructing an abstract syntax tree. I wrote Parser.java and all the AST files. The other .java files were supplementary files provided by the professor.
+This assignment entailed writing a recursive descent parser for the purpose of constructing an abstract syntax tree. I wrote Parser.java and all the AST files. The other .java files were supplementary files provided by the professor. Semantic details of the project can be found in the .docx prompt posted.
